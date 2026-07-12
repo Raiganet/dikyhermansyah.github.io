@@ -29,7 +29,83 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+<br>
 
+🛠️ Tech Stack & Tools
+Kategori
+Teknologi yang Dikuasai
+Frontend
+
+
+
+Backend
+
+
+
+Database
+
+
+DevOps & Tools
+
+
+
+<br>
+
+🚀 Proyek Unggulan (Featured Projects)
+Proyek
+Deskripsi Singkat
+Teknologi
+Links
+[Nama Proyek 1]
+Platform E-Commerce dengan microservices & payment gateway.
+Next.js Node.js PostgreSQL
+🔗 Demo | 📂 Code
+[Nama Proyek 2]
+Dashboard Analytics interaktif real-time dengan WebSockets.
+React D3.js Python
+🔗 Demo | 📂 Code
+[Nama Proyek 3]
+Aplikasi Mobile Cross-Platform untuk manajemen keuangan AI.
+React Native Firebase
+🔗 Demo | 📂 Code
+<br>
+
+📊 GitHub Analytics & Statistics
+<div align="center">
+<!-- STATS & LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166&border_color=30363D&hide_border=true" alt="Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166&border_color=30363D&hide_border=true" alt="Top Languages" width="48%"/>
+</div>
+
+<br>
+
+<div align="center">
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=[USERNAME_GITHUB_ANDA]&theme=transparent&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&border=30363D&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME_GITHUB_ANDA]&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+<!-- SNAKE ANIMATION (Akan aktif jika Anda setup workflow di bawah) -->
+<img src="https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/[USERNAME_GITHUB_ANDA]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB_ANDA]&label=Profil+Dilihat&color=0D1117&style=for-the-badge" alt="Profile Views" />
+<p style="color: #8B949E; font-size: 14px; margin-top: 20px;">
+© 2026 [Nama Anda]. Dibangun dengan Markdown dan ☕.
+</p>
+</div>
 ---
 
 ## 👤 Tentang Saya
